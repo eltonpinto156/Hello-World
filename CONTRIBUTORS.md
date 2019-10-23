@@ -25,6 +25,7 @@
 - [Elton Glenvill Pinto](https://github.com/eltonpinto156)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
 - [Erol Aliyev](https://github.com/erolaliyev)
+- [Flaman Glanson Mascarenhas(https://github.com/Glanson1310)
 - [HRAnkit](https://github.com/hrankit)
 - [Hritik Soni](https://github.com/iamhritik55)
 - [Jatin Narula](https://github.com/jatin96)
